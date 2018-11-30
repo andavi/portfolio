@@ -13,11 +13,11 @@ Actual time needed to complete: 30 minutes
 
 Estimate of time needed to complete: 2 hours
 
-Start time: 1700
+Start time: 1730
 
-Finish time: _____
+Finish time: 2200
 
-Actual time needed to complete: _____
+Actual time needed to complete: 4.5 hours
 
 
 # Prologue by HTML5 UP

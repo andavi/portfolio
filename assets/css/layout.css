@@ -1719,7 +1719,8 @@
 				}
 
 					#nav ul li a.active span:before {
-						color: #e27689;
+            /* color: #e27689; */
+            color: #9ececc;
 					}
 
 /* Footer */
@@ -1798,7 +1799,7 @@
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/snow.jpg");
 			}
 
 			#main > section.two {
