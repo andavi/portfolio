@@ -78,3 +78,7 @@ ul.icons {
   z-index: -100;
   transform: translate(-50%, -50%);
 }
+
+#main > section.dark h2, #main > section.dark p {
+	color: rgba(255, 255, 255, 0.85);
+}
