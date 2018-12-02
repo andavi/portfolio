@@ -13,7 +13,7 @@ const PORT = process.env.PORT || 3000;
 app.use(express.static('./public'));
 
 app.use('*', (req, res) => {
-  res.send('sorry that didn\'t work');
+  res.send('Sorry this doesn\'t work yet.');
 });
 
 app.listen(PORT, () => console.log(`Listening on port ${PORT}`));
