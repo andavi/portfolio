@@ -1798,8 +1798,8 @@
 			}
 
 			#main > section.one {
-				background-color: #81918E;
-				background-image: url("../../images/snow.jpg");
+				/* background-color: #81918E; */
+        /* background-image: url("../../images/snow.jpg"); */
 			}
 
 			#main > section.two {
