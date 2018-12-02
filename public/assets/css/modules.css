@@ -68,15 +68,29 @@ ul.icons {
 /* Video */
 
 #myVideo {
-	position: fixed;
+	/* position: fixed;
   top: 40%;
   left: 50%;
   min-width: 100%;
   min-height: 100%;
   width: auto;
   height: auto;
-  z-index: -100;
-  transform: translate(-50%, -50%);
+  z-index: -1;
+	transform: translate(-50%, -50%); */
+	position: fixed;
+	top: auto;
+	left: auto;
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+	z-index: -100;
+	-ms-transform: translateX(-50%) translateY(-50%);
+	-moz-transform: translateX(-50%) translateY(-50%);
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	transform: translateX(-50%) translateY(-35%);
+	background: url(../../images/snow.jpg) no-repeat;
+	background-size: cover;
 }
 
 #main > section.dark h2, #main > section.dark p {
